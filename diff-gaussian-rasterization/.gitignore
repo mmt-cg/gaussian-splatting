@@ -1,0 +1,9 @@
+build/
+diff_gaussian_rasterization.egg-info/
+dist/
+
+**.egg-info
+**log
+log
+**/__pycache__
+**.so
